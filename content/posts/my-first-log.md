@@ -9,7 +9,6 @@ summary: "Setting my goals for mastering college-level math, physics, and comput
 
 Welcome to my first official engineering log. I am using this space to document everything I learn as I bridge the gap between being a complete beginner and becoming a computer engineer.
 
-## My Current Roadmap
-* **Mathematics:** Starting with a deep dive into Calculus foundations.
-* **Physics:** Mastering classical mechanics to help with robotics physics.
-* **Robotics:** Exploring microcontroller programming and hardware layouts.
+## Today's Day of Work
+
+Today was a **massive** leap in my own productivity. Not only did I begin self-studying AP Computer Science Principles (evidence down below) on Khan academy, but I also designed the groundwork for this whole website.
