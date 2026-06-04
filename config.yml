@@ -10,24 +10,6 @@ pagination:
 taxonomies:
     tag: tags
 
-menu:
-    main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
-          weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
-
 params:
     description: "With this blog, I will be documenting my journey to learn college level math, physics, and robotics. I plan to go from a complete beginner to an expert in the field of computer engineering. Thank you for any support along the way!"
     author: Gavin Marchant
@@ -77,7 +59,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Gavin Learns Tech"
       icon: favicon.ico
       iconHeight: 18
 
