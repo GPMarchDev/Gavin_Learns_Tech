@@ -57,8 +57,8 @@ params:
           title: Gavin Learns Tech
           subtitle: "With this blog, I will be documenting my journey to learn college level math, physics, and robotics. I plan to go from a complete beginner to an expert in the field of computer engineering. Thank you for any support along the way!"
           imageUrl: "robot.png"
-          imageWidth: 160
-          imageHeight: 160
+          imageWidth: 350
+          imageHeight: 350
           buttons:
             - name: Blog Posts
               url: posts/
