@@ -59,7 +59,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Gavin Learns Tech"
+      text: "Gavin Learns Tech - Home"
       icon: favicon.ico
       iconHeight: 18
 
