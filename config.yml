@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://gpmarchdev.github.io/Gavin_Learns_Tech/" 
+title: Gavin Learns Tech
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -29,8 +29,8 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "With this blog, I will be documenting my journey to learn college level math, physics, and robotics. I plan to go from a complete beginner to an expert in the field of computer engineering. Thank you for any support along the way!"
+    author: Gavin Marchant
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
