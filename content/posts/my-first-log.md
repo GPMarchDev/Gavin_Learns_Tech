@@ -12,3 +12,5 @@ Welcome to my first official engineering log. I am using this space to document 
 ## Today's Day of Work
 
 Today was a **massive** leap in my own productivity. Not only did I begin self-studying AP Computer Science Principles (evidence down below) on Khan academy, but I also designed the groundwork for this whole website.
+
+![My Progress in AP Computer Science Principles](/static/images/6426prog.png)
