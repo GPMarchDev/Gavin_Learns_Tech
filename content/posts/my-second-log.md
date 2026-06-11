@@ -11,4 +11,4 @@ Sorry that there was no post yesterday, I ended having an enexpected pho and bob
 
 ## Today's Day of Work
 
-**Personal life aside,** today I managed to bang out more progress on my AP CSE course. Today I fully completed Unit 1. I was hoping on getting more work done today but I ended up going shopping with my parents after going to the gym which took up most of today.
+**Personal life aside,** today I managed to bang out more progress on my AP CSP course. I was hoping on getting more work done today but I ended up going shopping with my parents after going to the gym which took up most of today.
