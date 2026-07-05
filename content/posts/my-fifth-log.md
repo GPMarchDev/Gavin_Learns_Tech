@@ -1,6 +1,6 @@
 ---
 title: "Log 05: Back after a while"
-date: 2026-07-5
+date: 2026-07-05
 draft: false
 summary: "Setting my goals for mastering college-level math, physics, and computer engineering."
 ---
