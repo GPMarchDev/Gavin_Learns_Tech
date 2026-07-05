@@ -16,4 +16,4 @@ I finally started studying calculus based physics 101! I am using the video lect
 
 Thanks again for your support!
 
-![Unit3done!](/Gavin_Learns_Tech/images/752026.png)
+![Unit3done!](/images/752026.png)
