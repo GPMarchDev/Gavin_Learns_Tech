@@ -7,7 +7,7 @@ summary: "Setting my goals for mastering college-level math, physics, and comput
 
 # SUPER SUPER LATE...
 
-SO MUCH HAS HAPPENED! First off, I finally officially graduated High School! Stony Brook University here I come :) !!!
+SO MUCH HAS HAPPENED! First off, I finally officially graduated High School! Stony Brook University here I come !!!
 Secondly, I finally got employed... For the first time ever. It's a little scary, but I am getting a hang of it.
 
 ## Today's (and the Last 2 Weeks) Day of Work
@@ -16,4 +16,4 @@ I finally started studying calculus based physics 101! I am using the video lect
 
 Thanks again for your support!
 
-![Unit3done!](/Gavin_Learns_Tech/images/Screenshot 2026-07-05-182950.png)
+![Unit3done!](/Gavin_Learns_Tech/images/752026.png)
