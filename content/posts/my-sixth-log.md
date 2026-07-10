@@ -1,5 +1,5 @@
 ---
-title: "Log 06: Back after a while"
+title: "Log 06: Back after... Not a while"
 date: 2026-07-09
 draft: false
 summary: "New Progress on CS and Calculus!"
