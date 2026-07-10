@@ -2,7 +2,7 @@
 title: "Log 03: Still trecking along"
 date: 2026-06-11
 draft: false
-summary: "Setting my goals for mastering college-level math, physics, and computer engineering."
+summary: "Unit 1, D-d-done"
 ---
 
 # My Third Update!

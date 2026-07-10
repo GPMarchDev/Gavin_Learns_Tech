@@ -2,7 +2,7 @@
 title: "Log 02: I'm back and ready to go"
 date: 2026-06-06
 draft: false
-summary: "Setting my goals for mastering college-level math, physics, and computer engineering."
+summary: "Progress is coming :)"
 ---
 
 # Guess Who's back and not giving up!

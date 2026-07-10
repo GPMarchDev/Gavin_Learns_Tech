@@ -2,7 +2,7 @@
 title: "Log 04: Studying Start"
 date: 2026-06-14
 draft: false
-summary: "Setting my goals for mastering college-level math, physics, and computer engineering."
+summary: "Knicks and Bits"
 ---
 
 # Late Post... Again
