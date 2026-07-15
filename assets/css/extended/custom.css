@@ -1,0 +1,11 @@
+/* Only apply side-by-side layout on computer monitors so it doesn't look squished on phones */
+@media screen and (min-width: 768px) {
+    .profile_inner {
+        display: flex;
+        flex-direction: row-reverse; /* Dynamically shoves your robot image to the right side */
+        align-items: center;
+        justify-content: space-between;
+        gap: 60px;                   /* Creates clean breathing room between text and image */
+        text-align: left;            /* Aligns your bio beautifully from left-to-right */
+    }
+}
