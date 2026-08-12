@@ -1,8 +1,8 @@
 ---
-title: "Log 09: Done with physics I"
-date: 2026-07-26
+title: "Log 10: Done with Calc II"
+date: 2026-08-11
 draft: false
-summary: "More amazing progress"
+summary: "I'm DOOOOOONE"
 ---
 
 # Life Updates
