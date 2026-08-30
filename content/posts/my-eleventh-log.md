@@ -11,7 +11,7 @@ I am officialy a college freshman at Stony Brook University, I am currently enro
 
 At SBU I am currently working on getting a job on campus, and I am planning on joining the IEEE club do get more experience with electrical engineering. Speeking of which, I am planning a little EE project involving making a whack-a-mole inspired game with a raspberry pi. I also launched a little PC Building business which I will get some money with.
 
-All my professors are awesome as well, my CS professor is really funny and my Calculus II professor is exceptionally outgoing.
+All my professors are awesome as well, my CS professor is really funny, and my Calculus II professor is exceptionally outgoing.
 
 ## Blog Updates???
 
