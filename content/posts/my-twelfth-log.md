@@ -16,3 +16,9 @@ In the project, I connected three breadboards together and used a Raspberry Pi P
 <video controls width="50%">
   <source src="../..//videos/Img_6827.mp4" type="video/mp4">
 </video>
+
+From here, I only need to make it portable and create a case for it to protect the devise. 
+
+Anyways, now that I've bassically finished the project (and found out how to attach videos on the site), expect me to post some totorial videos on some subjects. 
+
+Thanks for reading!
