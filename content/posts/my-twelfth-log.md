@@ -14,6 +14,6 @@ On that note I've bassically finished my little EE project. It was a really fun 
 In the project, I connected three breadboards together and used a Raspberry Pi Pico to creat a whack-a-mole inspired game. After pressing the start button, seven lights turn on, then you play ten rounds were one light turns off and you must turn it back on as fast as possible. After all ten rounds, your reaction speed is measured on a LCD screen. Below Ive attatched a video for of the game in action.
 
 <video controls width="100%">
-  <source src="/videos/Img_6827.mp4" type="video/mp4">
+  <source src="./videos/img_6827.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
